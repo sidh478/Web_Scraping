@@ -1,0 +1,12 @@
+#creating environment
+conda create --name YT-env python=3.9
+#activating environment
+conda activate YT-env
+#Google APIs Client Library for Python
+pip install --upgrade google-api-python-client
+pandas
+seaborn
+
+reference links:
+https://console.cloud.google.com
+https://developers.google.com/youtube/v3/docs
